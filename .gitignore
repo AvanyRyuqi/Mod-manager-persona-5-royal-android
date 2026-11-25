@@ -1,0 +1,13 @@
+build/
+build-*/
+*.nro
+*.elf
+*.nacp
+.DS_Store
+android/.gradle/
+android/build/
+android/app/build/
+android/app/.cxx/
+android/local.properties
+*.keystore
+*.jks
